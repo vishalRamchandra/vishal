@@ -28,7 +28,6 @@ span{
     display: flex;
     flex-direction: column;
 }
-
 input{
     width: 40%;
     margin-bottom: 1.5rem;
@@ -84,6 +83,13 @@ button{
     .youtubeicon{
         float: right;
     }
+    input{
+    width: 45%;
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    border-radius: 8px;
+    height: 35px;
+}
     textarea{
         width: 100%;
         margin: auto;
