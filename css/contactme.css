@@ -84,8 +84,13 @@ button{
     .youtubeicon{
         float: right;
     }
+    textarea{
+        width: 100%;
+        margin: auto;
+    }
     .button{
         margin-left: 35%;
+        font-size: normal;
     }
     footer{
         position: relative;
