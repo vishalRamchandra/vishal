@@ -41,6 +41,10 @@ table{
         left: 0;
         bottom: 0;
     }
+    .seniors img{
+        width: 50%;
+        height: auto;
+    }
 }
 
 
