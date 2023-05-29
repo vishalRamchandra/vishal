@@ -36,6 +36,10 @@ table{
     table{
         width: 90%;
     }
+    td{
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
     footer{
         position: relative;
         left: 0;
