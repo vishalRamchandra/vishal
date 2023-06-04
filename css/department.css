@@ -29,25 +29,18 @@
     border-radius: 14px;
 }
 .seniorsflex{
-    display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        position: relative;
-        width: 100%; 
-        background: transparent; 
-        border-radius: 16px
-    /*display: flex;
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
     position: relative;
 
     width: 80%; 
     background: rgba(4, 8, 250, 0.89); 
-    margin: auto;
-    display: flex; 
+    margin: auto;display: flex; 
     flex-direction: row; 
     justify-content: space-between; 
-    overflow-x: scroll;
-    border-radius: 16px*/
+    overflow-x: scroll; 
+    border-radius: 16px
 }
 .seniors img{
     width: 70%;
