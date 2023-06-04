@@ -442,6 +442,10 @@ footer{
         transform: rotate(10deg);
         border-radius: 10px;
     }
+    .myimage{
+        width: 150px;
+        height: 150px;
+    }
     .rectangle{
         position: absolute;
         top: -1.5rem;
