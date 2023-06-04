@@ -242,6 +242,7 @@ footer{
         flex-direction: column;
     } */
     header{
+        font-size: normal;
         border-bottom: 1px solid red;
     }
     main{
