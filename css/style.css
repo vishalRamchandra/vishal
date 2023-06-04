@@ -244,6 +244,13 @@ footer{
     header{
         border-bottom: 1px solid red;
     }
+    .logo{
+        padding-left: 8%;
+        padding-right: 8%;
+    font-size: small;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    }
     main{
         margin-top: 4rem;
     }
@@ -380,13 +387,6 @@ footer{
     .right img{
         width: 130%;
         height: auto;
-    }
-    .logo{
-        padding-left: 8%;
-        padding-right: 8%;
-    font-size: large;
-    padding-top: 5%;
-    padding-bottom: 5%;
     }
     .left{
         padding-right: 1%;
