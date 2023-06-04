@@ -253,6 +253,7 @@ footer{
     main{
         margin-top: 6rem;
         font-size: medium;
+        padding: 1%;
     }
     .openbtn{
         display: block;
@@ -261,7 +262,7 @@ footer{
         width: 9%; 
         height: 1.5%;
         position: absolute; 
-        top: 118%; 
+        top: 125%; 
         left: 3%; 
         border-radius: 5px;
     }
@@ -292,7 +293,7 @@ footer{
         background: black; 
         width: 9%; 
         height: 1.5%;
-        top: 118%; 
+        top: 125%; 
         left: 3%; 
         border-radius: 5px;
         transform: rotateZ(45deg);
@@ -335,7 +336,6 @@ footer{
         width: 110px;
         height: 110px;
     }
-
     .main{
         margin-top: 2.2rem;
         z-index: 0;
