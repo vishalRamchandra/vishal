@@ -247,7 +247,7 @@ footer{
     .logo{
         padding-left: 8%;
         padding-right: 8%;
-    font-size: small;
+    font-size: normal;
     padding-top: 5%;
     padding-bottom: 5%;
     }
@@ -261,7 +261,7 @@ footer{
         width: 9%; 
         height: 1.5%;
         position: absolute; 
-        top: 115%; 
+        top: 118%; 
         left: 3%; 
         border-radius: 5px;
     }
@@ -292,7 +292,7 @@ footer{
         background: black; 
         width: 9%; 
         height: 1.5%;
-        top: 115%; 
+        top: 118%; 
         left: 3%; 
         border-radius: 5px;
         transform: rotateZ(45deg);
