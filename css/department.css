@@ -43,31 +43,13 @@
     border-radius: 16px;
 }
 .seniors img{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    position: relative;
-
-    width: 80%; 
-    background: rgba(4, 8, 250, 0.89); 
-    margin: auto;display: flex; 
-    flex-direction: row; 
-    justify-content: space-between; 
-    overflow-x: scroll; 
-    border-radius: 16px
-    width: 70%;
-        /*height: auto;
-        border-radius: 0%;
-        border: 3px solid rgb(18, 14, 235);
-        padding: 3%;
-        margin: 0;
     width: 200px;
     height: 200px;
     padding: 2%;
     border-radius: 50%;
     margin-left: 3rem;
     margin-right: 3rem;
-    border: 3px solid white;*/
+    border: 3px solid white;
 }
 .seniors{
     text-align: center;
